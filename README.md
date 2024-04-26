@@ -2,7 +2,7 @@
 Learning Project by Youtube Next.js 14 tutorial implementing E-Commerce Web Application
 
 ## Getting Started
-Setup .env file your won
+Setup .env file your own
 ```
 DATABASE_URL=""
 ADMIN_USERNAME=
