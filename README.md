@@ -2,8 +2,14 @@
 Learning Project by Youtube Next.js 14 tutorial implementing E-Commerce Web Application
 
 ## Getting Started
+Setup .env file your won
+```
+DATABASE_URL=""
+ADMIN_USERNAME=
+HASHED_ADMIN_PASSWORD=
+```
 
-First, run the development server:
+Then, run the development server:
 
 ```bash
 npm run dev
