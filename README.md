@@ -1,12 +1,19 @@
 # NextJS-Ecomm
-Learning Project by Youtube Next.js 14 tutorial implementing E-Commerce Web Application
+Learning Project by Youtube Next.js 14 tutorial implementing E-Commerce Web Application. The project uses sqlite as the database. If you want to use other databases, you need to change some configuration of the project as well.
 
 ## Getting Started
 Setup .env file your own
 ```
-DATABASE_URL=""
+DATABASE_URL=
 ADMIN_USERNAME=
 HASHED_ADMIN_PASSWORD=
+STRIPE_SECERET_KEY=
+STRIPE_WEBHOOK_SECRET=
+RESEND_API_KEY=
+SENDER_EMAIL=
+
+NEXT_PUBLIC_STRIPE_PUBLIC_KEY=
+NEXT_PUBLIC_SERVER_URL=
 ```
 
 Then, run the development server:
